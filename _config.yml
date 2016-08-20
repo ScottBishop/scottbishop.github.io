@@ -1,3 +1,5 @@
 name: Scott Bishop, Android Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+gems:
+  - jekyll-sitemap
