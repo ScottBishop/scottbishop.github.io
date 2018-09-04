@@ -1,3 +1,3 @@
 # scottbishop.github.io
 
-A personal website using GitHub Pages and Jekyll
+A playground website using GitHub Pages and Jekyll
